@@ -1,3 +1,9 @@
+## This repository includes code for the PII Hackathon for BigScience and ASIC. It is based on MasakhaNER https://github.com/masakhane-io/masakhane-ner and original code by Ontocord, LLC, and other BigScience participants.
+
+
+++++++
+# From the MasakhaNER Repository
+
 ## [MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/abs/2103.11811)
 
 This repository contains the code for [training NER models](https://github.com/masakhane-io/masakhane-ner/tree/main/code), scripts to [analyze the NER model predictions](https://github.com/masakhane-io/masakhane-ner/tree/main/analysis_scripts) and the [NER datasets](https://github.com/masakhane-io/masakhane-ner/tree/main/data) for all the 10 languages listed below. 
